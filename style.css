@@ -4,14 +4,14 @@ body{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-}
-p{
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
     text-align: center;
-    background-color: rgba(126, 216, 0, 0.666);
-    padding: 10px;
 }
-h1{
+p ,h1{
     text-align: center;
-    background-color: rgba(126, 216, 0, 0.666);
+    background-color: rgba(0, 51, 255, 0.666);
     padding: 10px;
 }
