@@ -15,6 +15,7 @@ div{
     margin: 30px;
     font-family: Arial, sans-serif;
     animation: myani 2s ease forwards;
+    font-size: larger;
 }
 #school{
 background-repeat: no-repeat;
