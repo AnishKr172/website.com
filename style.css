@@ -15,4 +15,14 @@ p,h1,h2,h3,h4,h5,h6,ul{
     background:linear-gradient(to left, rgba(0, 255, 208, 0.611),rgba(255, 0, 0, 0.501));
     padding: 10px;
     margin: 10px;
+    font-family: Arial, sans-serif;
+    animation: myani 2s ease forwards;
+}
+@keyframes myani{
+    0%{
+        opacity: 0%;
+    }
+    100%{
+        opacity: 100%;
+    }
 }
