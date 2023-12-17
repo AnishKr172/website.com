@@ -1,5 +1,5 @@
 body{
-    background-color: aliceblue;
+    background-color: rgb(0, 69, 1);
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
@@ -7,11 +7,11 @@ body{
 }
 p{
     text-align: center;
-    background-color: rgb(255, 251, 246);
+    background-color: rgba(82, 38, 7, 0.666);
     padding: 10px;
 }
 h1{
     text-align: center;
-    background-color: rgb(255, 251, 246);
+    background-color: rgba(82, 38, 7, 0.666);
     padding: 10px;
 }
