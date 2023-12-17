@@ -1,5 +1,5 @@
 body{
-    background-image: url(disgusting.png);
+    background-image: url(background.jpg);
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
@@ -10,14 +10,13 @@ body{
     text-align: center;
 }
 div{
-    background:linear-gradient(to left, rgba(0, 255, 208, 0.611),rgba(255, 0, 0, 0.501));
+    background:linear-gradient(to left, rgba(48, 169, 0, 0.611),rgba(121, 85, 0, 0.614));
     padding: 10px;
     margin: 30px;
     font-family: Arial, sans-serif;
     animation: myani 2s ease forwards;
 }
 #school{
-background-image: url(school.png);
 background-repeat: no-repeat;
 background-attachment: fixed;
 background-position: center;
