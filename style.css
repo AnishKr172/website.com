@@ -10,8 +10,9 @@ body{
     background-size: cover;
     text-align: center;
 }
-p ,h1{
+p ,h1,h2,h3,h4,h5,h6{
     text-align: center;
     background-color: rgba(0, 51, 255, 0.666);
     padding: 10px;
+    margin: 10px;
 }
